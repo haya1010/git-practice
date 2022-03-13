@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 updated
 conflict branch update
-Github上で更新
+Github上で更新 2times
